@@ -1,0 +1,6 @@
+*.txt
+*.py
+!**/p1.py
+!**/p2.py
+!**/p3.py
+*template/
